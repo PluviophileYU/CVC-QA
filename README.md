@@ -15,4 +15,5 @@ This repository contains the code for the following paper:
 Here we use RACE with BERT-base as example for MCQA task.
 
 ### Dowload data
-- Step 1: Download original dataset via this link (http://www.cs.cmu.edu/~glai1/data/race/)
+- Step 1: Download original dataset via this link (http://www.cs.cmu.edu/~glai1/data/race/), and store in directory `/data_mc/RACE`
+- Step 2: Download the adversarial sets created by ours via this link ()
