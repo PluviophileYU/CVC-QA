@@ -35,7 +35,7 @@ bash cvc_iv.sh
 bash cvc_mv.sh
 ```
 ### MCQA model trained by me
-You can download the CVC model trained by me (CVC-MV is not included). You can find the results we report in our paper. () 
+You can download the CVC model trained by me (CVC-MV is not included). You can find the results we reported in our paper. () 
 
 ## Span-Extraction Question Answering
 Coming Soon!
