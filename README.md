@@ -17,3 +17,9 @@ Here we use RACE with BERT-base as example for MCQA task.
 ### Dowload data
 - Step 1: Download original dataset via this link (http://www.cs.cmu.edu/~glai1/data/race/), and store in directory `/data_mc/RACE`.
 - Step 2: Download the adversarial sets created by ours via this link (https://drive.google.com/drive/folders/1ufPl0aP-QglVdsDtlKq9kTnt_0Fqmw2i?usp=sharing), and store in same directory as step 1.
+
+### CVC Training
+```sh
+cd src_mc &&
+sh train.sh
+```
