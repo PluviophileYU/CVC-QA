@@ -12,5 +12,7 @@ This repository contains the code for the following paper:
 * prettytable 0.7.2
 
 ## Multiple-Choice Question Answering
+Here we use RACE with BERT-base as example for MCQA task.
 
 ### Dowload data
+- Step 1: Download original dataset via this link (http://www.cs.cmu.edu/~glai1/data/race/)
