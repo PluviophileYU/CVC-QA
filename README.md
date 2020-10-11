@@ -20,5 +20,17 @@ Here we use RACE with BERT-base as example for MCQA task.
 
 ### CVC Training
 ```sh
-cd src_mc && sh train.sh
+cd src_mc
+bash train.sh
+```
+
+### CVC-IV inference
+Please change `--timestamp` according to your training time.
+```sh
+bash cvc_iv.sh
+```
+
+### CVC-MV inference (including training for c-adaptor
+```sh
+bash cvc_mv.sh
 ```
