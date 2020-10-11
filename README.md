@@ -20,6 +20,5 @@ Here we use RACE with BERT-base as example for MCQA task.
 
 ### CVC Training
 ```sh
-cd src_mc &&
-sh train.sh
+cd src_mc && sh train.sh
 ```
