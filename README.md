@@ -23,6 +23,7 @@ Here we use RACE with BERT-base as example for MCQA task.
 cd src_mc
 bash train.sh
 ```
+You may visualize the loss trend using tensorboardX in directory `/src_mc/runs`.
 
 ### CVC-IV inference
 Please change `--timestamp` according to your training time.
