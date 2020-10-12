@@ -31,7 +31,7 @@ bash cvc_iv.sh
 ```
 
 ### CVC-MV inference (including training for c-adaptor)
-Fill selected trained model in `--pre_model_dir`.
+Please change `--pre_model_dir` according to model selected by you.
 ```sh
 bash cvc_mv.sh
 ```
