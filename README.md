@@ -30,7 +30,8 @@ Please change `--timestamp` according to your training time.
 bash cvc_iv.sh
 ```
 
-### CVC-MV inference (including training for c-adaptor
+### CVC-MV inference (including training for c-adaptor)
+Fill selected trained model in `--pre_model_dir`.
 ```sh
 bash cvc_mv.sh
 ```
