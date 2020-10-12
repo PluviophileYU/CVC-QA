@@ -36,7 +36,7 @@ Please change `--pre_model_dir` according to model selected by you.
 bash cvc_mv.sh
 ```
 ### MCQA model trained by me
-You can download the CVC model trained by me (CVC-MV is not included). You can find the results we reported in our paper. (https://drive.google.com/drive/folders/14ZMUwW_bxnpaDX4HbjdUxGwcNBzFIYR6?usp=sharing) 
+You can download the CVC model trained by us (CVC-MV is not included). You can find the results we reported in our paper. (https://drive.google.com/drive/folders/14ZMUwW_bxnpaDX4HbjdUxGwcNBzFIYR6?usp=sharing) 
 
 ## Span-Extraction Question Answering
 Coming Soon!
